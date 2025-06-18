@@ -1,0 +1,89 @@
+The Eversame USB Digital Power Meter aka Juwei USB Safety Tester Model J7-t
+
+Specifications
+
+• Input Voltage: 3V - 30V
+• Input Current: 0 - 5.1A
+• Accuracy: +/- 1%
+
+Accuracy compared to calibrated Fluke 87-5 Multimeter
+
+My J7-t reads 5.12V; my Fluke reads 5.137V
+
+Search on the web for "USBmeter safety tester J7-t UK", which will bring you to a page with extensive testing of the J7-t and a view of its components.
+
+The J7-t has two USB type A connectors. The male connector is reversible so you can plug it into the power source either side up. The connector has a set of pins on each side of a thin blade that makes this possible. It won't withstand rough treatment.
+
+The female socket on the other end of the J7-t will accept a cable from the device to be charged as long as it's terminated with a Type A male connector.
+
+The J7-t displays one of three screens when plugged into a power source. The screen will be whichever last showed, but fresh out of the box, you should see Screen 1.
+
+Screen 1
+◦ voltage
+◦ current
+◦ watts
+◦ elapsed charging time
+◦ amp hours (cumulative)
+◦ watt hours (cumulative)
+
+[If you have mistakenly held down the button (marked KEY) on the top edge of the J7-t while plugging it into the power source, you will enter calibration mode and see a different screen. Unplug the J7-t and try again.]
+
+The cumulative counter values are derived from the time a device has actually been charging through the J7-t. The count stops whenever charging stops and resumes when charging resumes. If the J7-t is unplugged from its power source, values are preserved and can be read when powered again. To clear the cumulative counters, hold the KEY button down until you get a beep.
+
+A short press on the KEY button will cycle the J7-t display through three screens. The remaining two are:
+
+Screen 2
+◦ voltage of all 4 pins (v-, d+, d-, v+)
+◦ resistance of the connected load
+◦ timer / temperature of the J7-t
+◦ elapsed charging time
+◦ current
+
+Screen 3
+◦ voltage / current
+◦ capacity / adjustment factor
+◦ energy in watt hours / temperature of J7-t in °C
+◦ elapsed charging time / timer
+
+Key Presses
+
+A quick press of the KEY button will do the following:
+
+• press 1 time to cycle through the three display screens
+
+when on Screen 3
+
+• press 2 times to reset Cap: mAh
+• press 3 times to reset Ene: Wh
+• press 4 times to reset Time
+• press 5 times to set the charge timer
+• press 6 times to change language (English or Chinese)
+
+(Holding the KEY button down until you get a beep will clear all counters at once.)
+
+Charge Timer
+
+The J7-t can be set to stop charging after a certain time, from 1 to 24 hours. By default the timer is off and shows on screens two and three as OFF. To set the timer, do five quick presses of the KEY button while on screen three. OFF will start flashing on the bottom of the screen. Continue pressing the KEY button until you reach the desired setting (AO is auto-off). After charging for the set time, the J7-t will stop charging, beep a few times, and display OFF on its screen. Pressing the KEY button brings the normal display back up.
+
+Calibration Mode
+
+To enter calibration mode, hold the KEY button down when you connect the J7-t to its power source. Afterwards, a single press of the KEY button will cycle through the configurable settings, showing each setting alone on its own screen.
+
+• 0.00A a 2 amp source is required to calibrate amps
+• 5.12V a 5 volt source is required to calibrate volts
+• >30.0V set overvoltage cutoff
+• <3.00V set undervoltage cutoff
+• >5.00A set overcurrent cutoff
+• X1.00 set mAh and wH adjustment factor (0.50 to 1.50)
+
+Double click the KEY button to change a value. When changing, a single click decreases the value; a double click increases the value. After a single or double click, immediately pressing and holding the KEY button will rapidly change values.
+
+The last screen in calibration mode shows a telephone number and website for Juwei, which is a creature of Shenzhen Ouju Technology Co., Ltd.
+
+To exit calibration mode, disconnect power to the J7-t.
+
+---------------------------------------------------------------------------------------------
+
+More Info
+
+See https://lygte-info.dk/info/usbMeterInfo%20UK.html
